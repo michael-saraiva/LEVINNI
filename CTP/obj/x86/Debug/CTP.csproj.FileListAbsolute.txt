@@ -1,0 +1,931 @@
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\bin\Debug\CTP.exe
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\bin\Debug\CTP.pdb
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.exe
+C:\Users\Fagner\Documents\Visual Studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.pdb
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\bin\Debug\office.dll
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\bin\Debug\office.xml
+C:\Users\Fagner\documents\visual studio 2010\Projects\CTP\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.exe
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.pdb
+C:\Users\Fagner\Desktop\CTP\bin\Debug\CTP.exe
+C:\Users\Fagner\Desktop\CTP\bin\Debug\CTP.pdb
+C:\Users\Fagner\Desktop\CTP\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Fagner\Desktop\CTP\bin\Debug\office.dll
+C:\Users\Fagner\Desktop\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Fagner\Desktop\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Fagner\Desktop\CTP\bin\Debug\office.xml
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Fagner\Desktop\CTP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.exe
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.pdb
+C:\Users\Michael\Desktop\CTP\bin\Debug\CTP.exe
+C:\Users\Michael\Desktop\CTP\bin\Debug\CTP.pdb
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Michael\Desktop\CTP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.exe
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.pdb
+G:\CTP Atualizado\CTP\bin\Debug\CTP.exe
+G:\CTP Atualizado\CTP\bin\Debug\CTP.pdb
+G:\CTP Atualizado\CTP\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmLogin.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+G:\CTP Atualizado\CTP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\CTP Atualizado\CTP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.exe
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.pdb
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\bin\Debug\CTP.exe
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\bin\Debug\CTP.pdb
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Michael\Desktop\BKP PenDrive Bancos e Projetos\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\bin\Debug\office.dll
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\bin\Debug\office.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\bin\Debug\CTP Digital.application
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\bin\Debug\CTP Digital.exe
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\Michael\Desktop\Banco CTP\CTP Atualizado 1\CTP Atualizado\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\bin\Debug\office.dll
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\bin\Debug\office.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\bin\Debug\office.dll
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\bin\Debug\office.xml
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\Isaac\Downloads\CTP+Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\bin\Debug\office.dll
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\bin\Debug\office.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\Michael\Desktop\Banco CTP\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\bin\Debug\office.dll
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\bin\Debug\office.xml
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\Fagner Santos\Downloads\OneDrive-2014-12-10\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\bin\Debug\office.dll
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\bin\Debug\office.xml
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\CTP ATUALIZADO\CTP Digital\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\Fagner Santos\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Samuel\Downloads\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\Samuel\Downloads\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\Users\Samuel\Downloads\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\Users\Samuel\Downloads\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\Samuel\Downloads\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+F:\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+F:\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\Michael\Desktop\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\Users\Michael\Desktop\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\Users\Michael\Desktop\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\Michael\Desktop\CTP Digital\CTP\bin\Debug\office.dll
+C:\Users\Michael\Desktop\CTP Digital\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Michael\Desktop\CTP Digital\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Michael\Desktop\CTP Digital\CTP\bin\Debug\office.xml
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\Michael\Desktop\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+F:\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+F:\CTP Digital\CTP\bin\Debug\CTP Digital.application
+F:\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+F:\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+F:\CTP Digital\CTP\bin\Debug\office.dll
+F:\CTP Digital\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\CTP Digital\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+F:\CTP Digital\CTP\bin\Debug\office.xml
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+F:\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+F:\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+F:\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+F:\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\CTP ATUALIZADO\CTP Digital\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\CTP ATUALIZADO\CTP Digital\CTP\bin\Debug\CTP Digital.application
+C:\CTP ATUALIZADO\CTP Digital\CTP\bin\Debug\CTP Digital.exe
+C:\CTP ATUALIZADO\CTP Digital\CTP\bin\Debug\CTP Digital.pdb
+C:\CTP ATUALIZADO\CTP Digital\CTP\bin\Debug\office.dll
+C:\CTP ATUALIZADO\CTP Digital\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\CTP ATUALIZADO\CTP Digital\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\CTP ATUALIZADO\CTP Digital\CTP\bin\Debug\office.xml
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\CTP ATUALIZADO\CTP Digital\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\CTP Digital.application
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\CTP Digital.exe
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\office.dll
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\stdole.dll
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\CD\Desktop\Nova pasta\CTP\bin\Debug\office.xml
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\CD\Desktop\Nova pasta\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\CTP Digital.application
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\CTP Digital.exe
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\office.dll
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\stdole.dll
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\bin\Debug\office.xml
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\CD\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.exe
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.pdb
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\bin\Debug\CTP Digital.exe.manifest
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\bin\Debug\CTP Digital.application
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\bin\Debug\CTP Digital.exe
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\bin\Debug\CTP Digital.pdb
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\bin\Debug\office.dll
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\bin\Debug\office.xml
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.Properties.Resources.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.TrustInfo.xml
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.exe.manifest
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP Digital.application
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\admin\Desktop\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\bin\Debug\office.dll
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\bin\Debug\office.xml
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\bin\Debug\LEVINNE MODAS.exe.manifest
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\bin\Debug\LEVINNE MODAS.application
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\bin\Debug\LEVINNE MODAS.exe
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\bin\Debug\LEVINNE MODAS.pdb
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\LEVINNE.Properties.Resources.resources
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\LEVINNE MODAS.TrustInfo.xml
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\LEVINNE MODAS.exe.manifest
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\LEVINNE MODAS.application
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\LEVINNE MODAS.exe
+C:\Users\CD\Downloads\Versão 3\Versão 1 0 0 9\CTP\obj\x86\Debug\LEVINNE MODAS.pdb
+C:\Users\admin\Desktop\Versão 3\CTP\bin\Debug\office.dll
+C:\Users\admin\Desktop\Versão 3\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\admin\Desktop\Versão 3\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\admin\Desktop\Versão 3\CTP\bin\Debug\office.xml
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Versão 3\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\admin\Desktop\Versão 3\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\admin\Desktop\Versão 3\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\admin\Desktop\Versão 3\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\admin\Desktop\Versão 3\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\office.dll
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\office.xml
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\admin\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\office.dll
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\office.xml
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\CD\Desktop\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\office.dll
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\stdole.dll
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\office.xml
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\MichaelSaraiva\Downloads\Versão 3 - Copia\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+C:\Users\CD\Downloads\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\Camila\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioEntrada.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioEntrada.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioFechamento.resources
+C:\Users\CD\Desktop\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReempressaoDeDocumento.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReempressaoDeDocumento.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioEntrada.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioFechamento.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+E:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReempressaoDeDocumento.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioEntrada.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioFechamento.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.CoreCompileInputs.cache
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+D:\08 11 2017\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReempressaoDeDocumento.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioEntrada.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioFechamento.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.CoreCompileInputs.cache
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+C:\Users\Stark\Documents\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmCancelamento.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.application
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.exe
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\bin\Debug\LEVINNI MODAS.pdb
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmCancelamento.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmLogin.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmReempressaoDeDocumento.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioEntrada.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.frmRelatorioFechamento.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\CTP.csproj.CoreCompileInputs.cache
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.application
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+C:\Users\Srta. Danni\Desktop\pro\Versao3.1 BETA 11 10 2017\Versao3.1 BETA\Versao3.1 BETA\Versão 3 - Copia\Versão 3 - Copia\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
+E:\pro\Versão 4 BETA\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+E:\pro\Versão 4 BETA\CTP\bin\Debug\LEVINNI MODAS.application
+E:\pro\Versão 4 BETA\CTP\bin\Debug\LEVINNI MODAS.exe
+E:\pro\Versão 4 BETA\CTP\bin\Debug\LEVINNI MODAS.pdb
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmCancelamento.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmLogin.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmReempressaoDeDocumento.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmRelatorioEntrada.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmRelatorioFechamento.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+E:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.application
+D:\pro\Versão 4 BETA\CTP\bin\Debug\LEVINNI MODAS.exe.manifest
+D:\pro\Versão 4 BETA\CTP\bin\Debug\LEVINNI MODAS.application
+D:\pro\Versão 4 BETA\CTP\bin\Debug\LEVINNI MODAS.exe
+D:\pro\Versão 4 BETA\CTP\bin\Debug\LEVINNI MODAS.pdb
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.csprojResolveAssemblyReference.cache
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmPrincipal.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmAberturaDeCaixa.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmCadastro.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmCancelamento.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmContasaReceber.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmEntrada.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmFechamentoCaixa.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmFinanceiro.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmLogin.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmOrcamento.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmPesquisaContasReceber.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmPesquisaFornecedor.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmPesquisaProduto.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmPesquisaRecebimento.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmReceber.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmReempressaoDeDocumento.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmRelatorio.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmRelatorioContasReceber.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmRelatorioEntrada.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.frmRelatorioFechamento.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.frmUsuario.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.PesquisaCliente.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI.Properties.Resources.resources
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.csproj.GenerateResource.Cache
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\CTP.csproj.CoreCompileInputs.cache
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.TrustInfo.xml
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.exe.manifest
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.application
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.exe
+D:\pro\Versão 4 BETA\CTP\obj\x86\Debug\LEVINNI MODAS.pdb
